@@ -1,2 +1,4 @@
 # Growth-Engineer-Lab
-Public lab for learning growth engineering through Web3, AI systems, and user focused experiments.
+Exploring Web3 mechanics through simple, testable experiments.
+Building AI powered flows that reduce friction for real users.
+Documenting growth systems from idea to measurable outcome.
